@@ -31,7 +31,7 @@ Chapters: Features
 ## Q&A
 
 #### I have a problem!
-Go to this tab ([Issues]()) to see if yours has already been reported. You are allowed to report any problems with the software :D If a problem report has been closed, or deleted it means that it will most likely be fixed in the next version.
+Go to the issues tab to see if yours has already been reported. You are allowed to report any problems with the software :D If a problem report has been closed, or deleted it means that it will most likely be fixed in the next version.
 
 ## Nerds only
 

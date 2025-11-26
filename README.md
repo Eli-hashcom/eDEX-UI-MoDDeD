@@ -1,3 +1,4 @@
+# NEW NOTICE: This software is no longer in use and can not be fixed.
 <p align="left">
   <br>
   <img height="144" alt="Logo" src="media/logo.png">
@@ -6,8 +7,6 @@
 </p>
 
 eDEX-UI is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
-
-### NOTICE: This REPO is NOT finished and might not come with new updates
 ---
 Chapters: Installation, Features, Q&A, Credits, Nerds only
 ---
